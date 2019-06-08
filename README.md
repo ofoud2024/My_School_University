@@ -4,7 +4,7 @@
 Ce projet consiste à créer un site web pour la gestion des établissements scolaires. Deux langages de programmation principaux sont utilisés dans ce projet : PHP et Js. Ce site web est basé sur l'architecture MVC et emploie des mécanismes de sécurité basiques, qui consistent à vérifier les entrées et les sorties.
 
 ## Installation/Démo
-Vous pouvez déployer ce site web en local, en installant les scripts SQL et en copiant les fichiers du répertoire web dans votre serveur http. Vous pouvez aussi consulter une version démo du site sur le lien suivant: http://ofoudane.a2hosted.com/etablissement/
+Vous pouvez déployer ce site web en local, en installant les scripts SQL et en copiant les fichiers du répertoire web dans votre serveur http. Vous pouvez aussi consulter une version démo du site sur le lien suivant : http://ofoudane.a2hosted.com/etablissement/. Vous pouvez me demander un nom d'utilisateur et un mot de passe via mon linkedin : https://www.linkedin.com/in/omar-foudane-098094167/
 
 ## Documents techniques
 Pour plus de détails, vous pouvez consulter :
