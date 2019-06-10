@@ -10,7 +10,7 @@ pour obtenir un nom d'utilisateur et un mot de passe et pouvoir explorer les fon
 
 ## Documents techniques et fonctionnels
 Pour plus de détails, vous pouvez consulter :
-1. Les documents fonctionnels : à ajouter plus tard
-2. Cahiers de spécifications techniques: à ajouter plus tard
-3. Modèle conceptuel de données (MCD) : à ajouter plus tard
-4. Diagramme de Gantt : à ajouter plus tard
+1. Les documents fonctionnels : https://github.com/ofoudane/My_School_University/blob/master/DOCUMENTS/Documents%20Fonctionnels.pdf
+2. Cahiers de spécifications techniques : https://github.com/ofoudane/My_School_University/blob/master/DOCUMENTS/Cahier%20des%20specifications%20techniques.pdf
+3. Modèle conceptuel de données (MCD) : https://github.com/ofoudane/My_School_University/blob/master/DOCUMENTS/MCD.jpg
+4. Diagramme de Gantt : https://github.com/ofoudane/My_School_University/blob/master/DOCUMENTS/Diagramme_de_Gantt_MySchoolUniversity.pdf
