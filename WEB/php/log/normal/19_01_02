@@ -1,0 +1,39 @@
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   02-01-2019 12:07:16
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/Database.php
+Line          :   37
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   02-01-2019 12:07:21
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/Database.php
+Line          :   37
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   02-01-2019 12:07:34
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/Database.php
+Line          :   37
+*************************************************
+
+

@@ -1,0 +1,126 @@
+/*********************************
+* 		CORPS DE LA PAGE         *
+*								 *
+/*********************************/
+.connexion {
+  height: 100vh;
+  margin:0;
+}
+.connexion .connexion-form-container {
+  margin-top: 50vh;
+  transform: translateY(-50%);
+  background-image: url("../images/connexion/motif.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  max-width: 500px;
+  max-height: 500px;
+  min-width: 500px;
+  min-height: 500px;
+}
+
+/*********************************
+* 		       CONNEXION         *
+*								 *
+/*********************************/
+.connexion .connexion-form {
+  background-color: rgba(10, 65, 104, 0.9);
+  width: 380px;
+  height: 500px;
+  margin: auto;
+  margin-top: 25px;
+  border-radius: 5px;
+  -webkit-box-shadow: 11px -5px 26px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 11px -5px 26px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 11px -5px 26px -4px rgba(0, 0, 0, 0.75);
+}
+
+/*********************************
+* 		       FORMULAIRE        *
+*								 *
+/*********************************/
+.connexion .logo-form {
+  margin-top: 25px;
+  width: 140px;
+  height: 140px;
+}
+
+.connexion .data-input {
+  width: 230px;
+  height: 40px;
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 2px solid rgb(198, 198, 198);
+  background-color: transparent;
+  color: white;
+}
+.connexion .data-input:focus {
+  border-bottom-color: #01f816;
+}
+
+.connexion .input-image-prepend {
+  margin-top: 10px;
+}
+
+
+.connexion form .input-image-prepend {
+  width: 40px;
+  padding: 0px;
+  margin-top: 2px;
+  margin-right: 13px;
+  height: 30px;
+  border: none;
+  background-color: transparent;
+}
+
+/************************************** FIN FORMULAIRE *******************************************************/
+
+/************************************** FIN CONNEXION *******************************************************/
+
+/************************************** FIN CORPS DE PAGE ****************************************************/
+
+@media screen and (max-width : 480px){
+  .connexion .connexion-form-container {
+    max-width:100%;
+    min-width:100%;
+    height:500px;
+  }
+  
+  /*********************************
+  * 		       CONNEXION         *
+  *								 *
+  /*********************************/
+  .connexion .connexion-form {
+    width: 95%;
+    margin-left:2.5%;
+    height: 500px;
+  }
+  
+  /*********************************
+  * 		       FORMULAIRE        *
+  *								 *
+  /*********************************/
+  .connexion .logo-form {
+    margin-top: 25px;
+    width: 140px;
+    height: 140px;
+  }
+  
+  .connexion .data-input {
+    width: 230px;
+    height: 40px;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 2px solid rgb(145, 136, 136);
+    background-color: transparent;
+    color: white;
+  }
+  .connexion .data-input:focus {
+    border-bottom-color: #01f816;
+  }
+  
+  .connexion .input-image-prepend {
+    margin-top: 10px;
+  }
+  
+}

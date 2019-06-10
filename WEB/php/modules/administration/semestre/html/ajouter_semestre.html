@@ -1,0 +1,58 @@
+<form
+  autocomplete="off"
+  method="post"
+  action="index.php?module=administration&type=semestre&action=ajouter_semestre"
+>
+  <h4 class=" text-center mt-3 mb-1 underline">Ajout de semestre</h4>
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="reference">Référence</label>
+      <input
+        type="text"
+        class="form-control"
+        id="reference"
+        name="reference"
+        placeholder="S1"
+        required
+      />
+    </div>
+    <div class="form-group col-md-6">
+      <label for="nom_semestre">Nom</label>
+      <input
+        type="text"
+        class="form-control"
+        id="nom_semestre"
+        name="nom_semestre"
+        placeholder="Semestre 1"
+        required
+      />
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-group col-md-6 ">
+      <label for="points_ets">Points ets</label>
+      <input
+        type="number"
+        class="form-control"
+        min="0"
+        id="points_ets"
+        name="points_ets"
+        placeholder="30 pts"
+        required
+      />
+    </div>
+
+    <div class="form-group col-md-6">
+      <label for="periode">Période de l'année</label>
+      <select class="form-control" id="periode" name="periode" required>
+        <option value="1">Première partie</option>
+        <option value="2">Deuxième partie</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="container-fluid row justify-content-center">
+    <button type="submit" class="btn btn-success mb-2">Ajouter</button>
+  </div>
+</form>

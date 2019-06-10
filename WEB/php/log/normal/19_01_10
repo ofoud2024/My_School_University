@@ -1,0 +1,1618 @@
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 5:45:07
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 5:45:07
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 5:45:18
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:34:57
+Nom Exception :   Error
+Message       :   Call to undefined method ContMoodle::afficherListeCours()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/mod_moodle.php
+Line          :   39
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 6:35:58
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 6:35:58
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 6:36:05
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:36:16
+Nom Exception :   Error
+Message       :   Call to undefined method ContMoodle::afficherListeCours()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/mod_moodle.php
+Line          :   39
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:36:39
+Nom Exception :   Error
+Message       :   Call to undefined method ContMoodle::afficherListeCours()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/mod_moodle.php
+Line          :   39
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:37:14
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near ">"
+LINE 3: ...                        date_debut_depot_exercice > now() as...
+                                                             ^
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   52
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:37:44
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42601]: Syntax error: 7 ERROR:  syntax error at or near "from"
+LINE 5: ...                                                  from depot...
+                                                             ^
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   52
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:38:05
+Nom Exception :   Error
+Message       :   Call to undefined method VueMoodle::afficherListeCours()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/cont_moodle.php
+Line          :   103
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:46:32
+Nom Exception :   ParseError
+Message       :   syntax error, unexpected '.=' (T_CONCAT_EQUAL)
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   324
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 6:46:57
+Nom Exception :   ParseError
+Message       :   syntax error, unexpected '}', expecting ',' or ';'
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   370
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 8:02:22
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 8:02:22
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 8:02:28
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 9:14:48
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 9:14:48
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:15:00
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Insertion échouée
+Date          :   10-01-2019 9:17:53
+Nom Exception :   PDOException
+Message       :   SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "prk_constraint_module"
+DETAIL:  Key (ref_module)=(M3101) already exists.
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/module.php
+Line          :   327
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:48:42
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:49:48
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "2011-10"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:50:04
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "2011"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:52:35
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "3020"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:54:13
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22008]: Datetime field overflow: 7 ERROR:  date/time field value out of range: "302000"
+HINT:  Perhaps you need a different "datestyle" setting.
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:54:57
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "10"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:55:07
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22008]: Datetime field overflow: 7 ERROR:  date/time field value out of range: "50"
+HINT:  Perhaps you need a different "datestyle" setting.
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:55:15
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "20"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:55:20
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "30"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 9:55:25
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22008]: Datetime field overflow: 7 ERROR:  date/time field value out of range: "40"
+HINT:  Perhaps you need a different "datestyle" setting.
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 10:02:45
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 11:40:40
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 11:40:40
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 14:44:28
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 17:36:59
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 17:37:21
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Insertion échouée
+Date          :   10-01-2019 17:38:02
+Nom Exception :   PDOException
+Message       :   SQLSTATE[2F005]: Function executed no return statement: 7 ERROR:  control reached end of trigger procedure without RETURN
+CONTEXT:  PL/pgSQL function verif_sous_groupe()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/groupe.php
+Line          :   289
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 17:39:13
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 17:39:15
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 17:40:00
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "vide"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 17:40:24
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "vide"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 17:40:37
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/api/mod_api_generique.php
+Line          :   13
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 18:54:31
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 18:54:31
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 18:54:37
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:02:40
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 20:03:22
+Nom Exception :   Error
+Message       :   Call to undefined method Etudiant::modifier_semestre()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/administration/etudiant/modele_etudiant.php
+Line          :   50
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:04:06
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 20:04:14
+Nom Exception :   Error
+Message       :   Call to undefined method Etudiant::modifier_semestre()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/administration/etudiant/modele_etudiant.php
+Line          :   50
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 20:04:54
+Nom Exception :   Error
+Message       :   Call to undefined method ModeleEtudiant::modifier_semestre_etudiant()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/administration/etudiant/cont_etudiant.php
+Line          :   72
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 20:05:26
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 20:06:09
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 20:07:34
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:08:30
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 20:08:52
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:10:05
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 20:10:11
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:11:22
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 20:12:00
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "ref_semestre" does not exist
+LINE 2: ...    values (debut_periode, fin_periode, etudiant, ref_semest...
+                                                             ^
+HINT:  There is a column named "ref_semestre" in table "etudie_en", but it cannot be referenced from this part of the query.
+QUERY:  insert into etudie_en(date_debut, date_fin, num_etudiant, ref_semestre) 
+        values (debut_periode, fin_periode, etudiant, ref_semestre)
+CONTEXT:  PL/pgSQL function update_semestre_etudiant(character varying,character varying,date,date) line 11 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   135
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 20:13:06
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "semestre" of relation "etudie_en" does not exist
+LINE 1: ...nto etudie_en(date_debut, date_fin, num_etudiant, semestre) 
+                                                             ^
+QUERY:  insert into etudie_en(date_debut, date_fin, num_etudiant, semestre) 
+        values (debut_periode, fin_periode, etudiant, ref_semestre)
+CONTEXT:  PL/pgSQL function update_semestre_etudiant(character varying,character varying,date,date) line 11 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   135
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 20:13:54
+Nom Exception :   PDOException
+Message       :   SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "prk_constraint_etudie_en"
+DETAIL:  Key (date_debut, date_fin, num_etudiant, ref_semestre)=(2018-09-01, 2019-02-01, 1, S4) already exists.
+CONTEXT:  SQL statement "UPDATE ETUDIE_EN SET ref_semestre = semestre where
+        num_etudiant = etudiant  and date_debut = debut_periode and date_fin = fin_periode"
+PL/pgSQL function update_semestre_etudiant(character varying,character varying,date,date) line 8 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   135
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Suppression échouée
+Date          :   10-01-2019 20:27:40
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for type boolean: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   154
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 20:28:06
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for type boolean: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   154
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   10-01-2019 20:28:50
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for type boolean: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/etudiant.php
+Line          :   154
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 20:29:40
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 20:32:46
+Nom Exception :   ParseError
+Message       :   syntax error, unexpected ';', expecting ',' or ')'
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/administration/etudiant/modele_etudiant.php
+Line          :   107
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 20:45:14
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 20:45:14
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   10-01-2019 20:45:22
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   10-01-2019 20:45:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Échec ajout de cours
+Date          :   10-01-2019 20:46:01
+Nom Exception :   PDOException
+Message       :   SQLSTATE[P0001]: Raise exception: 7 ERROR:  Dépôt refusé
+HINT:  Vous devez être responsable du module pour y déposer des cours
+CONTEXT:  PL/pgSQL function support_enseignant_responsable() line 11 at RAISE
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodle.php
+Line          :   223
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 21:14:35
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/api/mod_api_generique.php
+Line          :   13
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 21:17:56
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/api/mod_api_generique.php
+Line          :   13
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 21:18:19
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/api/mod_api_generique.php
+Line          :   13
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:18:30
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:18:34
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:18:36
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:21:01
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:21:07
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:21:42
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:21:45
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:21:48
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   10-01-2019 21:23:33
+Nom Exception :   Error
+Message       :   Access to undeclared static property: MoodleEtudiant::$requete_aug_nb_visu
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   90
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   10-01-2019 21:23:37
+Nom Exception :   Error
+Message       :   Access to undeclared static property: MoodleEtudiant::$requete_aug_nb_visu
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   90
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 21:28:53
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 21:28:53
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 21:29:00
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 21:29:13
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 21:32:26
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 21:33:18
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:37:03
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:00
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:02
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:05
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:09
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:33
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:34
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:35
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:37
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:38:48
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:39:23
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:39:49
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   10-01-2019 21:39:51
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   30
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Paramètres insuffisants
+Date          :   10-01-2019 21:58:46
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 21:59:09
+Nom Exception :   PDOException
+Message       :   SQLSTATE[08P01]: <<Unknown error>>: 7 ERROR:  bind message supplies 2 parameters, but prepared statement "pdo_stmt_00000002" requires 0
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   23
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 22:01:20
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 22:01:26
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "num_etudiant" specified in USING clause does not exist in left table
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   70
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 22:02:11
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "id_groupe" specified in USING clause does not exist in left table
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   70
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 22:02:37
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function VueMoodle::detailsDepotEtudiant(), 0 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/cont_moodle.php on line 113 and exactly 1 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   392
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   10-01-2019 22:07:55
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42702]: Ambiguous column: 7 ERROR:  column reference "id_depot_exercice" is ambiguous
+LINE 13: ...                                            where id_depot_e...
+                                                              ^
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   73
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   10-01-2019 22:40:38
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   10-01-2019 22:40:38
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 22:40:43
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 22:40:55
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   10-01-2019 22:40:58
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   10-01-2019 22:41:16
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Dépôt échouée
+Date          :   10-01-2019 23:26:03
+Nom Exception :   PDOException
+Message       :   SQLSTATE[23502]: Not null violation: 7 ERROR:  null value in column "num_etudiant" violates not-null constraint
+DETAIL:  Failing row contains (Omar, 2019-01-10 23:26:03.221982, /home/projet_web/ftp/files/etablissement/Prod/php/common/../uplo..., null, 3, fichier_depot_etudiant_3020762827384.aup).
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   103
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Dépôt échouée
+Date          :   10-01-2019 23:30:55
+Nom Exception :   PDOException
+Message       :   SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "prk_constraint_depot_etudiant"
+DETAIL:  Key (num_etudiant, id_depot_exercice)=(1, 3) already exists.
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   103
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Dépôt échouée
+Date          :   10-01-2019 23:34:48
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "id_depot" does not exist
+LINE 1: SELECT * FROM DEPOT_ETUDIANT WHERE ID_DEPOT = depot AND num_...
+                                           ^
+QUERY:  SELECT * FROM DEPOT_ETUDIANT WHERE ID_DEPOT = depot AND num_etudiant = etudiant
+CONTEXT:  PL/pgSQL function ajouter_depot_etudiant(character varying,character varying,character varying,integer,character varying) line 4 at PERFORM
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodleEtudiant.php
+Line          :   102
+*************************************************
+
+

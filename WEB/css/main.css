@@ -1,0 +1,114 @@
+/*
+FONTS
+*/
+@font-face {
+  font-family: "Satisfy";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Satisfy Regular"), local("Satisfy-Regular"),
+    url(fonts/rP2Hp2yn6lkG50LoCZOIHQ.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+body {
+  margin: auto auto;
+  background-image: url("../images/background-image.jpg");
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+
+.error-message {
+  color: #f9b3a2;
+}
+
+fieldset {
+  border: 2px solid black;
+}
+
+.table-input {
+  width: 80px;
+  margin: auto auto;
+  height: 30px;
+}
+
+.small-input {
+  height: 30px;
+}
+
+.small-table {
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.small-table tbody{
+  background-color:white;
+}
+
+
+.table-border-collapse{
+  border-collapse: collapse;
+}
+
+.table-bg-white table{
+  background-color:white;
+}
+
+.cursor-pointer{
+  cursor: default;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.tab-indent{
+  text-indent: 30px;
+}
+
+@media screen and (min-width : 768px){
+  .full-height-container{
+    height:75vh;
+  }
+  
+  .vertical-center{
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%); 
+  }
+
+  .scroll-content{
+    overflow-x:hidden;
+    overflow-y:auto;
+    min-height:75vh;
+    max-height:75vh;
+  }
+}

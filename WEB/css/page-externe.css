@@ -1,0 +1,170 @@
+.formations {
+  margin-top: 10px;
+}
+
+.formations .nom-annee {
+  font-size: 20px;
+  font-family: "arial";
+}
+
+.formations .numero-annee {
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.formations .lettre-haut {
+  position: relative;
+  top: -15px;
+  font-size: 25px;
+}
+
+.formations .UE-title {
+  color: blanchedalmond;
+}
+
+.formations .semestre {
+  color: darkslategrey;
+}
+
+.formations div:nth-child(1) .nom-annee {
+  color: #344687;
+}
+
+.formations div:nth-child(2) .nom-annee {
+  color: #923e8c;
+}
+
+.formations div:nth-child(3) .nom-annee {
+  color: #e93790;
+}
+
+.accueil .news-image {
+  height: inherit;
+}
+.accueil .news-image img {
+  height: 330px;
+  display: none;
+}
+
+.accueil .news-image .direction-btn {
+  position: relative;
+  bottom: 60px;
+  font-size: 50px;
+  color: #000;
+  mix-blend-mode: darken;
+}
+
+.accueil .news-image .previous-btn {
+  left: 10px;
+}
+
+.accueil .news-image .next-btn {
+  right: 20px;
+}
+
+.accueil .news-titles {
+  margin-top: 10px;
+}
+.accueil .news-titles div {
+  border: 2px solid black;
+  margin-bottom: 3px;
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.accueil .news-titles h3 {
+  font-size: 20px;
+}
+
+.accueil .next-btn:nth-child(1) {
+  position: relative;
+  bottom: 80px;
+  left: 40px;
+  height: 20px;
+}
+.contact{
+  display:grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap:20px;
+  justify-content: center;
+}
+
+.contact .scene {
+  width: 100%;
+  height: 250px;
+  border: 1px solid #CCC;
+  margin: 40px 0;
+  perspective: 600px;
+}
+
+.contact .card {
+  font-size: 18px;
+  color:black;
+  width: 100%;
+  height: 140%;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  cursor: pointer;
+  position: relative;
+}
+
+.contact .card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.contact .card__face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+
+.card__face--back {
+  padding:20px;
+  background-color:#d1edfb6b;
+  transform: rotateY(180deg);
+  padding-top:80px;
+  margin: auto auto;
+
+}
+
+
+@media screen and (max-width:678px ){
+  .contact{
+    grid-template-columns: 80%;
+    grid-gap:20px;
+    justify-content: center;
+  }
+}
+
+.contact .image-contact{
+  width:100%;
+  height:100%;
+}
+
+
+#art1tiltle h2{
+	color: rgb(29, 85, 173) ;
+}
+
+#art1tiltle h3 {
+	color: rgb(45, 196, 183) ;
+}
+
+#art2tiltle h2{
+	color: rgb(204, 28, 171) ;
+}
+
+#art2tiltle h3{
+	color: rgb(252, 71, 5) ;
+}
+
+#art2tiltle h5 {
+	color: rgb(255, 178, 0) ;
+}
+
+#art1tiltle > *{
+  background-color: transparent;
+}

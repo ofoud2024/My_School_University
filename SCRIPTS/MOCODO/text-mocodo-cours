@@ -1,0 +1,14 @@
+semestre: ref_semestre, nom_semestre, points_ets_semestre
+module_est_enseigne_par, 1N module, 0N enseignant
+enseignant : id_enseignant
+cours_depose_par, 11 cours, 0N enseignant
+
+module_concerne_semestre, 11 module, 0N semestre
+module: ref_module, nom_module, coefficient_module, heures_cm_module, heures_tp_module, heures_td_module, couleur
+cours_concerne_module, 11 cours, 0N module
+cours: id_cours, nom_cours, lien_fichier_cours, date_depot_cours, date_ouverture_cours, cours_est_cachee, nb_consultation_cours
+
+:
+etudiant_commente_module, 0N module, 0N etudiant : commentaire, avis
+etudiant: num_etudiant, points_ets_etudiant
+cours_commenter_par, 0N etudiant, 0N cours: message_commentaire, avis

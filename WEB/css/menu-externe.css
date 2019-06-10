@@ -1,0 +1,48 @@
+.nav-externe {
+  padding-bottom: 10px;
+  background-color: rgba(240, 240, 240, 0.5);
+}
+
+.nav-externe #logo-img {
+  width: 120px;
+  height: 120px;
+  padding-top: 0px;
+}
+
+.nav-externe .reseau-social {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgba(66, 133, 244, 0.4);
+  color: white;
+}
+
+.nav-externe .reseau-social[alt="instagram"] {
+  padding: 3px;
+}
+
+.nav-externe .logo-aside {
+  padding-top: 10px;
+}
+ .logo-aside-top {
+  margin-bottom: 10px;
+}
+
+ #navigation-externe {
+  font-size: 18px;
+}
+
+#navigation-externe .nav-item {
+  color: #696968;
+  margin-left: 10px;
+}
+
+#navigation-externe .nav-item.active {
+  border-bottom: 1px solid #0fff87;
+}
+
+#navigation-externe .nav-item:hover {
+  border-bottom: 1px solid #6496e5;
+}
+
+

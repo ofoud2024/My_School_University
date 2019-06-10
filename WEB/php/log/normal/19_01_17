@@ -1,0 +1,894 @@
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 6:57:13
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 6:57:13
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 7:09:05
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 7:09:05
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   17-01-2019 7:09:10
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 7:09:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 7:09:24
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 7:09:24
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 20:04:00
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 20:04:00
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:18:53
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:21:30
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:21:50
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:21:53
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:23:30
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:23:52
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:24:07
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:24:54
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:25:08
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:25:52
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:06
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:14
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:29
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:42
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:54
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:26:58
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:27:01
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:27:04
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:27:54
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:28:33
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:28:39
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:28:55
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 20:29:16
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 20:29:16
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   17-01-2019 20:29:25
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   17-01-2019 20:29:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:32:02
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:32:19
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:32:34
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:33:02
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:34:00
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:34:05
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:34:55
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:35:05
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:35:23
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:36:46
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 20:36:49
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 22:08:26
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 22:08:26
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   17-01-2019 22:08:29
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   17-01-2019 22:08:29
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:09:45
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:00
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:05
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:09
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:11
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:15
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:17
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   17-01-2019 22:10:44
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+

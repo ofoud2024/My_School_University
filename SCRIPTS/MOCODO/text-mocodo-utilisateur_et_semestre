@@ -1,0 +1,27 @@
+pays: code_pays, nom_pays
+utilisateur_a_nationalite, 11 utilisateur, 0N pays
+utilisateur_a_droits, 11 utilisateur, 0N droits
+droits: nom_droits, droit_creation_utilisateurs, droits_creation_modules, droit_creation_cours, droit_creation_groupes, droit_modification_absences, droit_modification_droits, droit_modification_heures_travail, droit_visualisation_statistique
+groupe_a_droits, 11 groupe, 0N droits
+:
+
+etudiant: num_etudiant, points_ets_etudiant
+etudiant_est_utilisateur, 11 etudiant, 01 utilisateur
+utilisateur: id_utilisateur, pseudo_utilisateur, mail_utilisateur, nom_utilisateur, prenom_utilisateur, adresse_utilisateur, est_homme_utilisateur, tel_utilisateur, date_naissance_utilisateur, mot_de_passe_utilisateur, cle_recuperation_utilisateur, date_creation_utilisateur
+utilisateur_appartient_a_groupe, 0N utilisateur, 0N groupe
+groupe:id_groupe, nom_groupe
+groupe_est_un_sous_groupe, 0N groupe, 0N groupe
+
+etudiant_est_dans_semestre, 1N etudiant, 0N semestre, 0N annee : moyenne
+semestre: ref_semestre, nom_semestre, points_ets_semestre
+personnel_est_utilisateur, 11 personnel, 01 utilisateur
+utilisateur_habite_dans_ville, 11 utilisateur, 0N ville
+ville: code_postal_ville, nom_ville
+:
+
+annee: annee
+personnel_travail_heures, 0N annee, 0N personnel : heures_travaille
+personnel: id_personnel
+enseignant_est_personnel, 11 enseignant, 01 personnel
+enseignant: id_enseignant
+:

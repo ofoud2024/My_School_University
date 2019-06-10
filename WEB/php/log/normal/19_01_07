@@ -1,0 +1,551 @@
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 17:18:16
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 17:18:16
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 17:19:34
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 17:21:09
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 17:23:00
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 17:23:32
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 17:23:51
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 17:34:10
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 17:34:10
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 17:34:32
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 17:34:32
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 17:47:12
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 17:47:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 20:58:52
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 21:20:06
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 21:20:06
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   07-01-2019 21:20:20
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:23
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:24
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:24
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:43
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   07-01-2019 21:20:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   481
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 21:21:46
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 21:21:46
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 21:22:00
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 21:26:26
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 21:26:26
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 22:03:17
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 22:03:17
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 22:45:15
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 22:45:15
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur API
+Date          :   07-01-2019 22:45:28
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 22:46:27
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 22:46:27
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Connexion requise
+Date          :   07-01-2019 23:16:24
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   07-01-2019 23:16:24
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+

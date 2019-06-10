@@ -1,0 +1,5250 @@
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 5:59:46
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 5:59:46
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 6:01:54
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 6:01:54
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 6:01:59
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 6:01:59
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 6:16:49
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 6:16:49
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 8:25:26
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 8:25:26
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 8:41:38
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 8:41:38
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 9:16:40
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 9:16:40
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 9:17:44
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 9:17:44
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:55:27
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:55:27
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:55:41
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   21-01-2019 9:55:43
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   32
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:55:49
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   21-01-2019 9:56:29
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 9:57:06
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 9:57:06
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 9:57:11
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:12
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 9:57:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:57:34
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:57:38
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 9:57:43
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 9:58:16
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 10:57:06
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 10:57:06
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Element introuvable
+Date          :   21-01-2019 10:57:37
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 10:59:43
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:00:45
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:00:56
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   21-01-2019 11:00:58
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   32
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:01:03
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Télechargement échoué
+Date          :   21-01-2019 11:01:04
+Nom Exception :   Exception
+Message       :   Télechargement échoué
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/File.php
+Line          :   32
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:01:10
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 11:01:22
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 11:01:22
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 11:01:27
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 11:01:30
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 11:01:32
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:01:53
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 11:02:13
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "id_support" specified in USING clause does not exist in left table
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodle.php
+Line          :   190
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:02:38
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:02:43
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 11:02:57
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 11:06:22
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 11:06:22
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 13:02:14
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 13:02:14
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 13:03:22
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 13:03:22
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 13:27:01
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 13:27:01
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 14:00:08
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 14:00:08
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:00:12
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:00:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:30
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:50
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:50
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:50
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:50
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:06:50
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:07:02
+Nom Exception :   Error
+Message       :   Call to undefined method VueEdt::afficherVueEnseignant()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:08:52
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function ContEdt::afficherVueEnseignant(), 1 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php on line 47 and exactly 2 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   59
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:08:55
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:08:58
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function ContEdt::afficherVueEnseignant(), 1 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php on line 47 and exactly 2 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   59
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:08:58
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function ContEdt::afficherVueEnseignant(), 1 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php on line 47 and exactly 2 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   59
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:09:40
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function ContEdt::afficherVueEnseignant(), 1 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php on line 47 and exactly 2 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   59
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:09:42
+Nom Exception :   ArgumentCountError
+Message       :   Too few arguments to function ContEdt::afficherVueEnseignant(), 1 passed in /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php on line 47 and exactly 2 expected
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   59
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:11:57
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:11:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:12:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:35
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:17:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:19:10
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:06
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:20:11
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:20:15
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:22:01
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:22:04
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:22:04
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "null"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:23:05
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "null"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:23:08
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:11
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   21-01-2019 14:23:15
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:44
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:23:51
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:23:54
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:23:54
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "null"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   21-01-2019 14:26:11
+Nom Exception :   ParseError
+Message       :   syntax error, unexpected '}'
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/edt/cont_edt.php
+Line          :   43
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:26
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:26
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:26:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:26:27
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "null"
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   136
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:28:16
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:28:19
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 14:41:30
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:41:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:48:09
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   21-01-2019 14:50:41
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 14:50:46
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   21-01-2019 15:30:08
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:13
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:33
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:37
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:38
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 15:30:41
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 15:30:41
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:30:48
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:52
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:55
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:30:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:01
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:05
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 15:31:17
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 15:31:17
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:31:39
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   21-01-2019 15:31:58
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   17
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:03
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:32:33
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:32:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:14
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:33:26
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:28
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:29
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:29
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:29
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:33:29
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:36
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:35:46
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:35:48
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:49
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:36:55
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:36:58
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:38:59
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   21-01-2019 15:39:04
+Nom Exception :   ElementIntrouvable
+Message       :   Élément introuvable
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   29
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:07
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Droits insuffisants
+Date          :   21-01-2019 15:39:27
+Nom Exception :   NonAutoriseException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/utilisateur.php
+Line          :   487
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 15:53:47
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 15:53:48
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 15:57:43
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3104
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 15:59:05
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:04:32
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:04:54
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:05:22
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:08:56
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:10:22
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:10:29
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:10:45
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:11:06
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:11:07
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:11:10
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:13:46
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:13:49
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:14:34
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3106
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Modification échouée
+Date          :   21-01-2019 16:14:35
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22000]: Data exception: 7 ERROR:  Cet salle est reservée pour un autre module M3104
+CONTEXT:  PL/pgSQL function valider_new_seance() line 65 at RAISE
+SQL statement "update seance set 
+            heure_depart_seance = heure_depart,
+            duree_seance = duree,
+            ref_module = module,
+            id_groupe = groupe, 
+            nom_salle = salle,
+            id_enseignant = enseignant,
+            date_seance = date_depart
+        where id_seance = id
+        returning id_seance"
+PL/pgSQL function modifier_seance(integer,date,time without time zone,time without time zone,integer,integer,character varying,character varying) line 19 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/edt.php
+Line          :   96
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   21-01-2019 16:53:48
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   83
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   ConNOT_ENOUGH_ROLES_TITLEnexion requise
+Date          :   21-01-2019 16:54:16
+Nom Exception :   ErrorHandler
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   21-01-2019 16:54:16
+Nom Exception :   Error
+Message       :   Call to a member function getMessage() on null
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/errorHandler.php
+Line          :   61
+*************************************************
+
+

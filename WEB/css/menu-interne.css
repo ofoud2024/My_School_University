@@ -1,0 +1,40 @@
+.menu-interne .titre-menu {
+  background-color: black;
+}
+
+.menu-interne .titre-menu h2 {
+  color: white;
+  font-family: "Satisfy";
+  font-size: 45px;
+  font-weight: bold;
+}
+.menu-interne .btn-menu button {
+  width: auto;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 20px !important;
+}
+
+.menu-interne .formation-container h3 {
+  border: 2px solid black;
+}
+
+
+.sub-menu[data-toggle="collapse"] {
+  position: relative;
+}
+
+.sub-menu::after {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}
+
+.full-name-dropdown::after{
+  display: inline;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);}

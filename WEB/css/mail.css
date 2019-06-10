@@ -1,0 +1,241 @@
+.mail .mail-content-area{
+    min-height:200px;
+}
+
+
+.mail .tableau-liste-mail{
+    border:2px solid black;
+    border-radius: 10px !important;
+    border-collapse: collapse;
+    cursor:default;
+}
+
+
+.mail .tableau-liste-mail tr
+{
+    border:none;
+    overflow:hidden;
+    white-space: nowrap;
+}
+
+.mail .tableau-liste-mail tr td
+{
+    border:none;
+    height:20px;
+    padding:1px;
+    padding-left:10px;
+    padding-top:3px;
+}
+
+.mail .tableau-liste-mail tr:nth-child(3n){
+    border-bottom:2px solid rgb(70, 70, 70);
+}
+
+.mail .tableau-liste-mail .mail-message
+{
+    overflow:hidden;
+    white-space: nowrap;
+    font-size:12px;
+    color:rgba(109, 109, 109, 0.788);
+}
+
+.mail .tableau-liste-mail .mail-sender{
+    overflow:hidden;
+    white-space: nowrap;
+    font-size:16px;
+    color:black;
+    font-weight:bold;
+}
+
+.mail .tableau-liste-mail .mail-title, .mail .tableau-liste-mail .mail-date {
+    font-size:14px;
+}
+
+
+.show-mail-container{
+    width:95%;
+    margin:10px auto;
+    display:grid;
+    align-content: center;
+    grid-template-columns: 1fr 2fr;
+    grid-gap : 20px;
+
+}
+
+.mail-title-container{
+    display:flex;
+    flex-wrap:nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-bottom:2px dashed #3c5656;
+    background-color: rgba(247, 236, 223, 0.726);
+    cursor:default;
+}
+
+
+.mail-title-container:hover{
+    background-color:rgba(218, 218, 218, 0.5);
+}
+.selected-mail{
+    background-color: rgba(238, 95, 95, 0.295); 
+}
+
+.mail-title-container .mail-check-container{
+    flex-basis:45px;
+    order: 1;
+    height:inherit;
+    margin:auto auto;
+}
+
+.mail-title-container .mail-title{
+    order:0;
+    flex-grow: 1;
+    align-self:flex-end;
+    font-size:18px;
+    padding-left:10px;
+}
+
+.mail_title_list{
+    height:485px;
+    background-color:white;
+}
+
+.mail_title_list .empty-message{
+    position:relative;
+    font-size:20px;
+    font-weight:bold;
+    top:50%;
+    margin:auto;
+    transform: translateY(-50);
+}
+
+
+
+.mail-title .mail-sender{
+    font-weight: bold;
+}
+
+.mail-title .mail-date-name-container{
+    display: grid; 
+    grid-template-columns: 70% 30%;
+}
+
+
+.mail-title .mail-date-value{
+    font-size: 0.8em;
+    align-self: center;
+    margin-bottom: 0px;
+}
+
+.mail-check-container button{
+    font-size:13px;
+    display:block;
+    margin: 0px auto;
+}
+
+
+
+
+@media screen and (max-width:768px){
+    .show-mail-container{
+        grid-template-columns: 1fr; 
+    }
+}
+
+.test{
+    height:250px;
+}
+
+
+
+
+/*
+
+MAIL DETAILS
+
+*/
+
+.mail-details-container{
+    max-height:485px;
+    min-height:485px;
+    padding:20px;
+    font-size:12px;
+    overflow-wrap: break-word;
+}
+
+.mail_title_list{
+    max-height:80vh;
+    overflow-y:auto;
+}
+
+.mail-details-container .message-full-title{
+    font-size:2.5em;
+    font-weight: bolder;
+    border-bottom:2px solid rgba(199, 193, 193, 0.733);
+}
+
+
+.mail-details-container .piece-jointe-mail{
+    font-size:1.3em; 
+    color:rgb(76, 111, 207);
+    margin-bottom:10px;
+    cursor: pointer;
+    height:30px;
+}
+
+.mail-details-container .message-user-details{
+    margin-top:10px;
+    border-bottom:2px solid rgba(199, 193, 193, 0.733);
+    margin-bottom:10px;
+}
+
+.mail-details-container .message-full-content{
+    max-height:200px;
+    height:200px;
+    overflow-y:auto;
+}
+
+.message-user-details h4{
+    font-size:1.2em;
+    margin-bottom:2px;
+}
+
+
+.select-message-container{
+    position:relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.mail-select-icon{
+    font-size:120px;
+    margin:auto auto;
+    text-align: center;
+}
+
+.select-mail-text{
+    font-size:1.8em;
+    text-align:center;
+}
+
+
+/*
+    Réponse
+*/
+
+.mail-details-container .reponse-mail{
+    border-top: 1px dashed #c5bfbf;
+    margin-top: 12px;
+}
+
+.mail-details-container .reponse-mail h3{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: lightslategrey
+}
+
+.mail-title-text{
+    font-size: 0.9em;
+    line-height: 15px;
+    padding-bottom: 5px;
+}

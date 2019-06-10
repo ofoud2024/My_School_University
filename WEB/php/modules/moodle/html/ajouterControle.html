@@ -1,0 +1,77 @@
+<div class="container-fluid row px-0 mx-0 justify-content-center mb-3">
+    <div class="mr-md-4 mx-1 col-md-5  pt-3 mt-2">
+        <h3 class="text-center text-primary">Ajouter un contrôle</h3>
+        <form action="index.php?module=moodle&action=charger_notes" method="post" enctype="multipart/form-data">
+
+            <div class="form-group">
+                <label for="nom_controle">Nom</label>
+                <input class="form-control" id="nom_controle" name="nom_controle" required />
+            </div>
+
+            <div class="form-group">
+                <label for="date_controle">Date du contrôle</label>
+                <input type="date" class="form-control" id="date_controle" name="date_controle" required />
+            </div>
+
+            <div class="form-group">
+                <label for="module_controle">Module</label>
+                <select class="form-control select-module-enseignant" id="module_controle" name="module_controle"
+                    required>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="coefficient_controle">Coefficient</label>
+                <input type="number" min="0" step="0.025" max="20" class="form-control" id="coefficient_controle" name="coefficient_controle"
+                    required />
+            </div>
+
+            <div class="custom-file my-3">
+                <input type="file" class="custom-file-input" id="fichier_notes" name="fichier_notes" required>
+                <label class="custom-file-label" for="fichier_notes">Fichier Notes</label>
+            </div>
+
+            <div class="form-group">
+                <label for="module_controle">Séparateur</label>
+                <select class="form-control" id="separateur_fichier" name="separateur_fichier" required>
+                    <option value=";">;</option>
+                    <option value=",">,</option>
+                    <option value="|">|</option>
+                </select>
+            </div>
+
+            <div class="row justify-content-center p-2 mx-0" style="border:2px solid beige">
+                <h5 class="text-center col-12 text-underline">Colonnes du fichier</h5>
+                <div class="form-group col-sm-4 col-xs-8">
+                    <label for="col_pseudo">Pseudo</label>
+                    <input type="number" min="0" class="form-control" name="col_pseudo" id="col_pseudo" required />
+                </div>
+
+                <div class="form-group col-sm-4 col-xs-8">
+                    <label for="col_note">Note</label>
+                    <input type="number" min="0" class="form-control" id="col_note" name="col_note" required />
+                </div>
+
+                <div class="form-group col-sm-4 col-xs-8">
+                    <label for="col_commentaire">Commentaire</label>
+                    <input type="number" min="0" class="form-control" id="col_commentaire" name="col_commentaire"
+                        required>
+                </div>
+            </div>
+
+
+            <div class="container-fluid row justify-content-center mt-3">
+                <button class="btn btn-success" type="submit">Valider</button>
+            </div>
+
+
+        </form>
+
+    </div>
+
+    <div class="col-md-6 mx-1  pt-3 mt-2 ">
+        <h3 class="text-center text-primary mb-4">Liste des contrôles papiers</h3>
+
+    </div>
+
+</div>

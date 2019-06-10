@@ -1,0 +1,17 @@
+groupe:id_groupe, nom_groupe
+depot_concerne_groupe, 0N depot_exercice, 0N groupe
+depot_exercice: id_depot, date_debut_depot, date_fermeture_depot
+depot_concerne_module, 11 depot_exercice, 0N module
+module: ref_module, nom_module, coefficient_module, heures_cm_module, heures_tp_module, heures_td_module, couleur
+
+depot_exercice_notee_est_exercice, 11 depot_exercice_notee, 01 depot_exercice
+enseignant : id_enseignant
+enseignant_commente_depot_etudiant, 0N enseignant, 0N etudiant, 0N depot_exercice: commentaire_depot
+etudiant_depose_exercice, 0N depot_exercice, 0N etudiant : note, date_notation_exercice, commentaire_exercice, lien_depot_exercice
+controle_concerne_module, 11 controle, 0N module
+
+depot_exercice_notee: id_depot_note, coefficient_depot
+enseignant_note_depot_etudiant, 0N enseignant, 0N etudiant, 0N depot_exercice_notee
+etudiant: num_etudiant, points_ets_etudiant
+controle_fait_par, 0N controle, 0N etudiant: note_etudiant, commentaire_etudiant
+controle: id_controle, coefficient_controle, nom_controle, date_controle

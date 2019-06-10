@@ -1,0 +1,80 @@
+<!-- Page Content -->
+<div class="moodle ">
+    <div id="page-content-wrapper">
+        <form class="container-fluid row justify-content-center" method="post" action="index.php?module=moodle&action=effectuer_depot_cours"
+            enctype="multipart/form-data">
+            <h1 class="my-3 col-12 text-center">Déposer un cours</h1>
+            <div class="container-fluid">
+                <div class="row mx-auto container-fluid">
+                    <div class="col-lg-6 col-12 border border-primary rounded">
+                        <h4 class="mt-2  text-center">Déposez ici !</h4>
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="support_cours" name="support_cours">
+                            <label class="custom-file-label" for="support_cours">Choisir un fichier</label>
+                        </div>
+                        <div class="form-group row my-2 justify-content-end">
+                            <div class="container justify-content-start col-lg-6 col-12 ">
+                                <label for="date_ouverture_depot" class="text-left pt-lg-1">Date d'ouverture</label>
+                            </div>
+                            <div class="container justify-content-end col-12 col-lg-6">
+                                <input class="form-control " type="date" value="2018-12-13" id="date_ouverture_depot"
+                                    name="date_ouverture_depot">
+                            </div>
+                        </div>
+                        <div>
+                            <label class="switch mr-2">
+                                <input type="checkbox" checked id="cours_est_visible" name="cours_est_visible">
+                                <span class="slider round"></span>
+                            </label>Rendre visible ?
+                        </div>
+
+                    </div>
+
+                    <div class=" col-lg-6">
+                        <div class="form-group">
+                            <label for="titre_cours">Titre du support</label>
+                            <input type="text" class="form-control" id="titre_cours" name="titre_cours" placeholder="Saisir le titre">
+                        </div>
+                        <div class="form-group">
+                            <label for="module_cours">Module</label>
+                            <select class="form-control" id="module_cours" name="module_cours">
+                            </select>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="row  container col-12 mt-3">
+                    <div id="boutonDynamic" class="container col-12 justify-content-center row">
+                        <button type="submit" class="btn btn-success">Enregister
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+
+        </form>
+
+
+
+        <!-- <footer class="navbar bg-dark fixed-bottom">
+    <div class="row col-12 mb-0">
+        <ul class="mx-auto row container col-auto justify-content-center">
+            <li class="nav-item col-auto ">
+                <a class="nav-link text-white-50" href="#">Partagez vos expériences avec nous sur</a>
+            </li>
+            <li class="nav-item col-auto ">
+                <a class="nav-link" href="#"><img src="images/facebook.png" width="30" height="30" alt=""></a>
+            </li>
+            <li class="nav-item col-auto">
+                <a class="nav-link" href="#"><img src="images/gplus1.png" width="30" height="30" alt=""></a>
+            </li>
+            <li class="nav-item col-auto">
+                <a class="nav-link" href="#"><img src="images/instagram.png" width="30" height="30" alt=""></a>
+            </li>
+            <li class="nav-item col-auto">
+                <a class="nav-link" href="#"><img src="images/twitt.png" width="30" height="30" alt=""></a>
+            </li>
+        </ul>
+    </div>
+</footer> -->

@@ -1,0 +1,147 @@
+/*!
+ * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)
+ */
+
+#wrapper {
+  padding-left: 0;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#wrapper.toggled {
+  padding-left: 250px;
+}
+
+#sidebar-wrapper {
+  z-index: 1000;
+  position: fixed;
+  left: 250px;
+  width: 0;
+  height: 100%;
+  margin-left: -250px;
+  overflow-y: auto;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+
+  background: rgb(2, 0, 36);
+  background: linear-gradient(135deg, rgba(7,44,68,1) 0%,rgba(165,165,165,1) 100%)
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  width: 250px;
+}
+
+#page-content-wrapper {
+  width: 100%;
+  position: absolute;
+  padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+  position: absolute;
+  margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+.moodle .sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 250px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.moodle .sidebar-nav li {
+  text-indent: 20px;
+  line-height: 40px;
+}
+
+.moodle .sidebar-nav li a {
+  display: block;
+  text-decoration: none;
+  color: #fdfdfdd6
+}
+
+.moodle .sidebar-nav .activeMenu{
+  text-decoration: none;
+  color: #fff;
+  background: #03a9f4;
+}
+
+
+.moodle .sidebar-nav .activeMenu > a{
+  text-decoration: none;
+  color: #fff;
+  background: #03a9f4;
+}
+
+
+.moodle .sidebar-nav .activeToggle{
+  background-color: #3f51b5;
+  color:white;
+}
+
+
+
+.moodle .sidebar-nav li a:hover {
+  text-decoration: none;
+  color: #fff;
+  border-right: 8px solid #673ab7;
+  background-color:#8c8e8b;
+  background-color:#8c8e8b5c;
+}
+
+.moodle .sidebar-nav li a:active,
+.moodle .sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.moodle .sidebar-nav > .sidebar-brand {
+  height: 65px;
+  font-size: 18px;
+  line-height: 60px;
+}
+
+.moodle .sidebar-nav > .sidebar-brand a {
+  color: #999999;
+}
+
+.moodle .sidebar-nav > .sidebar-brand li:hover {
+  color: #fff;
+  background: none;
+}
+
+
+@media (min-width: 768px) {
+  #wrapper {
+    padding-left: 0;
+  }
+  #wrapper.toggled {
+    padding-left: 250px;
+  }
+  #sidebar-wrapper {
+    width: 0;
+  }
+  #wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+  }
+  #page-content-wrapper {
+    padding: 20px;
+    position: relative;
+  }
+  #wrapper.toggled #page-content-wrapper {
+    position: relative;
+    margin-right: 0;
+    /* width : calc(100% - 250px); */
+  }
+
+  
+}

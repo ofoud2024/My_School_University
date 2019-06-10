@@ -1,0 +1,11 @@
+groupe:id_groupe, nom_groupe
+destinataire_mail, 1N utilisateur, 11 mail, 0N groupe
+:
+
+mail: id_mail, sujet_mail, message_mail, pieces_jointe_mail, date_envoi_mail, date_lecture_mail
+mail_forward_a, 0N utilisateur, 0N mail : date_forward
+utilisateur: id_utilisateur, pseudo_utilisateur, mail_utilisateur, nom_utilisateur, prenom_utilisateur, adresse_utilisateur, est_homme_utilisateur, tel_utilisateur, date_naissance_utilisateur, mot_de_passe_utilisateur, cle_recuperation_utilisateur, date_creation_utilisateur
+
+reponse_de_mail, 11 reponse_mail, 11 mail
+reponse_mail: id_reponse_mail, contenu_reponse
+emetteur_mail, 11 mail, 11 utilisateur

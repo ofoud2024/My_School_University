@@ -1,0 +1,18 @@
+.administration .admin-dropdown-list {
+  background-color: transparent;
+  padding: 0;
+  margin-left: 40px;
+}
+
+.administration .content {
+  background-color: rgba(253, 253, 253, 0.63);
+  padding-bottom: 10px;
+  height: fit-content;
+}
+
+@media (max-width: 764px) {
+  .administration {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

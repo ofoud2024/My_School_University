@@ -1,0 +1,214 @@
+
+.edt{
+  box-sizing: border-box;
+}
+.edt .edt-week-switcher {
+  background-color: #bdbdbd;
+}
+
+.edt #edt-body table{
+  width:98%;
+}
+
+.edt .edt-header th:nth-child(1){
+  width:30px;
+}
+
+.edt .edt-week-container {
+  font-size: 20px;
+  padding-top: 5px;
+  height: 40px;
+}
+
+.edt .edt-week-text {
+  background-color: #e9e4e8;
+  padding-top: 2px;
+  border: 1px solid black;
+}
+.edt .edt-week-name {
+  font-family: "Satisfy";
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 7px;
+}
+
+.edt .edt-body table {
+  border: 0px;
+  font-size: 15px;
+}
+
+.edt .edt-body table td {
+  border-left:2px solid rgb(173, 154, 154);
+  font-size: 10px;
+}
+
+.edt .edt-body .newHour td{
+  border-top:2px solid rgb(15, 13, 13);
+}
+
+
+.edt .edt-body .col-edt {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  width:200px;
+  height: 40px;
+  -webkit-box-shadow: 5px -2px 37px 5px rgba(0, 0, 0, 0.78);
+  -moz-box-shadow: 5px -2px 37px 5px rgba(0, 0, 0, 0.78);
+  box-shadow: 5px -2px 37px 5px rgba(0, 0, 0, 0.78);
+}
+.edt .edt-body .col-lundi {
+  background-color: #00a652;
+}
+
+.edt .edt-body .col-mardi {
+  background-color: #f8b71d;
+}
+
+.edt .edt-body .col-mercredi {
+  background-color: #f36525;
+}
+
+.edt .edt-body .col-jeudi {
+  background-color: #ee1b24;
+}
+
+.edt .edt-body .col-vendredi {
+  background-color: #f3115d;
+}
+
+.edt .body-tr td {
+  height: 10px;
+  border-bottom:1px solid black;
+  font-size:10px;
+  text-align: center;
+}
+
+
+.edt .seance-cours{
+  margin:0;
+  position: absolute;
+  display: flex; /* contexte sur le parent */
+  flex-direction: column; /* direction d'affichage verticale */
+  color:#1a1a1a;
+  border:1px solid black;
+  overflow:hidden;
+}
+
+
+
+
+.edt .prof-seance{
+  text-align:left;
+  margin:0;
+}
+
+.edt .module-seance{
+  font-weight: bold;
+  text-align:center;
+  display:flex;
+  flex-direction: column;
+  justify-content : center;
+  flex:1;
+  margin:0;
+}
+
+.edt .module-seance p {
+  margin:0px;
+}
+
+.edt .groupe-seance{
+  font-weight:bold;
+  margin:0; 
+}
+
+.edt .salle-seance{
+  text-align:left;
+  margin:0;
+}
+
+
+
+.edt .edt-seance-container{
+  width:100%;
+  height:100%;
+  position: fixed;
+  left:0px;
+  top:0px;
+  background-color: transparent;
+}
+
+
+
+.edt .edt-header-container{
+  margin-top:20px;
+  display: grid;
+  grid-template-columns: 200px auto 200px 100px;
+  grid-gap: 10px;
+}
+
+.edt .edt-header-container div{
+  height: 35px;
+}
+
+.edt .edt-week-container{
+  display:grid;
+  padding:0px;
+  grid-template-columns: 30px auto 30px;
+}
+
+
+
+@media screen and (max-width: 678px){
+  .edt .edt-header-container{
+    margin-top:5px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 35px 35px;
+  }  
+
+  .edt .edt-week-container{
+    grid-area: 1;
+  }
+
+  .edt .edt-absences{
+    grid-area: 1;
+    justify-self: end;
+  }
+
+  .edt .edt-semestre{
+    grid-row-start: 2;
+    grid-row-end: auto;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    justify-self: center;
+    width:80%;
+  }
+
+  .edt .edt-week-container .semaine_courante{
+    font-size:15px;
+    padding-top:7px;
+    font-weight: bold;
+  } 
+  .edt .edt-week-name{
+    font-size:20px;
+  }
+}
+
+.edt-absence-table{
+  max-height:300px;
+  overflow-y:scroll;
+}
+
+
+
+/*
+-Edt mobile view
+*/
+
+.edt .edt-day-switcher{
+  display:grid;
+  grid-template-columns: 30px auto 30px;
+  width:100%;
+  align-content: center;
+}
+

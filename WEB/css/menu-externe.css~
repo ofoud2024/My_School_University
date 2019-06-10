@@ -1,0 +1,65 @@
+
+body{
+	max-width:100%;
+	height:100vh;
+	margin:auto auto;
+	background-image: url("../images/background-image.jpeg");
+	height:100%;
+	min-height:100vh;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+.nav-externe {
+	padding-bottom:10px;
+	background-color: rgba(240,240,240,0.5);
+}
+
+.nav-externe #logo-img{
+	width:120px;
+	height:120px;
+	padding-top:0px;
+}
+
+.nav-externe .reseau-social{
+	width:40px;
+	height:40px;
+	border-radius:5px;
+	background-color: rgba(66,133,244,0.4);
+	color:white;
+}
+
+.nav-externe .reseau-social[alt="instagram"]{
+	padding:3px;
+}
+
+
+.nav-externe .logo-aside{
+	padding-top:10px;
+}
+
+.nav-externe .logo-aside-top{
+	margin-bottom:10px;
+}
+
+.nav-externe #navigation-externe{
+	font-size:18px;
+}
+
+.nav-externe #navigation-externe .nav-item{
+	color:#696968;
+	border-right:1px solid grey;
+	margin-left:10px;
+	border-bottom:2px solid grey;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+.nav-externe #navigation-externe .nav-item.active{
+	border-bottom-color: #0fff87;
+}
+
+.nav-externe #navigation-externe .nav-item:hover{
+	border-bottom-color: #6496e5;
+}

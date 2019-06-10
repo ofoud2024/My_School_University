@@ -1,0 +1,82 @@
+<h2 class="text-center text-dark underline mb-4 pt-2 underline">
+    Créer un droit
+</h2>
+
+<form method="post" action="index.php?module=administration&type=droits&action=ajouter_droits" class="container-fluid row mt-2">
+
+    <div class="col-12 form-group row ">
+        <label for="nom_droits" class="text-info text-right col-form-label col-md-4">Nom de droit</label>
+        <div class="col-md-6 ">
+            <input type="text" required class="mt-1 small-input form-control" id="nom_droits" name="nom_droits" />
+        </div>
+
+    </div>
+
+    <div class="form-check col-md-4 justify-content-center">
+        <input class="form-check-input" type="checkbox" name="creation_utilisateurs" id="creation_utilisateurs" />
+        <label class="form-check-label" for="creation_utilisateurs">
+            création utilisateurs
+        </label>
+    </div>
+
+    <div class="form-check col-md-4 justify-content-center">
+        <input class="form-check-input" type="checkbox" name="creation_modules" id="creation_modules" />
+        <label class="form-check-label" for="creation_modules">
+            création modules
+        </label>
+    </div>
+
+    <div class="form-check col-md-4  justify-content-center">
+        <input class="form-check-input" type="checkbox" name="creation_cours" id="creation_cours" />
+        <label class="form-check-label" for="creation_cours">
+            création cours
+        </label>
+    </div>
+
+    <div class="form-check col-md-4 justify-content-center">
+        <input class="form-check-input" type="checkbox" name="creation_groupes" id="creation_groupes" />
+        <label class="form-check-label" for="creation_groupes">
+            création groupes
+        </label>
+    </div>
+
+    <div class="form-check col-md-4 justify-content-center">
+        <input class="form-check-input" type="checkbox" name="modification_abscences" id="modification_abscences" />
+        <label class="form-check-label" for="modification_abscences">
+            modification absences
+        </label>
+    </div>
+
+    <div class="form-check col-md-4  justify-content-center">
+        <input class="form-check-input" type="checkbox" name="statistiques" id="statistiques" />
+        <label class="form-check-label" for="statistiques">
+            Visualisation statistiques
+        </label>
+    </div>
+
+    <div class="form-check col-md-6  justify-content-center">
+        <input class="form-check-input" type="checkbox" name="modification_heures_travail" id="modification_heures_travail" />
+        <label class="form-check-label" for="modification_heures_travail">
+            modification heures de travail
+        </label>
+    </div>
+
+    <div class="form-check col-md-4 offset-md-2  justify-content-center">
+        <input class="form-check-input" type="checkbox" name="modifications_droits" id="modifications_droits" />
+        <label class="form-check-label" for="modifications_droits">
+            modification droits
+        </label>
+    </div>
+
+
+
+
+    <div class="container-fluid justify-content-center row">
+        <button type="submit" class="btn btn-outline-primary">Créer</button>
+    </div>
+
+
+
+
+
+</form>

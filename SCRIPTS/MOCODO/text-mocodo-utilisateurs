@@ -1,0 +1,18 @@
+utilisateur_a_droits, 11 utilisateur, 0N droits
+utilisateur: id_utilisateur, pseudo_utilisateur, mail_utilisateur, nom_utilisateur, prenom_utilisateur, adresse_utilisateur, est_homme_utilisateur, tel_utilisateur, date_naissance_utilisateur, mot_de_passe_utilisateur, cle_recuperation_utilisateur, date_creation_utilisateur
+utilisateur_a_nationalite, 11 utilisateur, 0N pays
+
+droits: nom_droits, droit_creation_utilisateurs, droits_creation_modules, droit_creation_cours, droit_creation_groupes, droit_modification_absences, droit_modification_droits, droit_modification_heures_travail, droit_visualisation_statistique
+utilisateur_habite_dans_ville, 11 utilisateur, 0N ville
+pays: code_pays, nom_pays
+
+:
+ville: code_postal_ville, nom_ville
+:
+enseignant: id_enseignant
+personnel: id_personnel
+enseignant_est_personnel, 11 enseignant, 01 personnel
+personnel_est_utilisateur, 11 personnel, 01 utilisateur
+etudiant: num_etudiant, points_ets_etudiant
+etudiant_est_utilisateur, 11 etudiant, 01 utilisateur
+

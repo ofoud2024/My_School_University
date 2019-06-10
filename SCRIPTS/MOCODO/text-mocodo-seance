@@ -1,0 +1,17 @@
+jour_ouverture_dans_annee, 11 jour_ouverture, 0N annee
+jour_ouverture: id_jour, jour_ouverture
+seance_se_deroule_dans, 11 seance, 0N salle
+salle: nom_salle
+salle_est_de_type, 11 salle, 0N type_salle
+
+annee: annee
+seance_se_deroule_a, 11 seance, 0N jour_ouverture
+seance: id_seance, heure_depart_seance, duree_seance
+seance_est_de_type, 11 seance, 0N type_seance
+type_salle: id_type_salle, nom_type_salle
+
+groupe:id_groupe, nom_groupe
+seance_concerne_groupe, 11 seance, 0N groupe
+seance_concerne_module, 11 seance, 01 module
+module: ref_module, nom_module, coefficient_module, heures_cm_module, heures_tp_module, heures_td_module, couleur
+type_seance: id_type_seance, nom_type_seance, couleur_seance

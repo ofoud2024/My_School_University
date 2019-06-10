@@ -1,0 +1,495 @@
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01012019 18:33:53
+Message       :   Class 'Enseignant' not found
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   14
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01012019 18:34:02
+Message       :   Class 'Enseignant' not found
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   14
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:36:21
+Message       :   Class 'Personnel' not found
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   60
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:36:56
+Message       :   Class 'PasEnseignantException' not found
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:38:11
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:38:33
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:38:40
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 18:43:38
+Nom Exception :   Error
+Message       :   Call to undefined function ErrorHandler()
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Enseignant requis
+Date          :   01-01-2019 18:44:04
+Nom Exception :   Exception
+Message       :   Pas un enseignant
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Enseignant requis
+Date          :   01-01-2019 18:47:20
+Nom Exception :   Exception
+Message       :   Pas un enseignant
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Enseignant requis
+Date          :   01-01-2019 18:49:07
+Nom Exception :   Exception
+Message       :   Pas un enseignant
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/vue_moodle.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Échec ajout de cours
+Date          :   01-01-2019 18:52:36
+Nom Exception :   PDOException
+Message       :   SQLSTATE[23503]: Foreign key violation: 7 ERROR:  insert or update on table "support_pedagogique" violates foreign key constraint "fk_support_pedagogique_ref_module"
+DETAIL:  Key (ref_module)=(3) is not present in table "module".
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodle.php
+Line          :   206
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   01-01-2019 19:19:34
+Nom Exception :   Error
+Message       :   Class 'Token' not found
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   31
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Paramètres insuffisants
+Date          :   01-01-2019 19:25:14
+Nom Exception :   ParametresInsuffisantsException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   14
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur interne
+Date          :   01-01-2019 19:31:52
+Nom Exception :   Exception
+Message       :   Erreur lors de la génération du Token
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/cont_generique.php
+Line          :   35
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:42:20
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:42:24
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:42:37
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:42:49
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:43:02
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:43:18
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:43:38
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:55:30
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:55:38
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:55:43
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:55:52
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:55:58
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Erreur
+Date          :   01-01-2019 19:57:51
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Enseignant requis
+Date          :   01-01-2019 19:57:57
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Enseignant requis
+Date          :   01-01-2019 20:00:17
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Enseignant requis
+Date          :   01-01-2019 20:04:28
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   1
+Titre         :   Enseignant requis
+Date          :   01-01-2019 20:28:42
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Échec ouverture dépôt
+Date          :   01-01-2019 20:29:33
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42601]: Syntax error: 7 ERROR:  INSERT has more expressions than target columns
+                  LINE 1: ...date_fermeture,null, coefficient, new_id_support, groupe_dep...                                                             ^
+                  QUERY:  insert into depot_exercice values(default, date_debut, date_fermeture,null, coefficient, new_id_support, groupe_depot)
+                  CONTEXT:  PL/pgSQL function ouvrir_depot(character varying,character varying,integer,character varying,timestamp without time zone,timestamp without time zone,date,integer,double precision) line 8 at SQL statement
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/moodle.php
+Line          :   294
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   déconnecté
+Titre         :   Erreur
+Date          :   01-01-2019 20:44:07
+Nom Exception :   PasEnseignantException
+Message       :   
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/user/enseignant.php
+Line          :   78
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   01-01-2019 21:09:56
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "id_enseignant" does not exist
+LINE 2: ...                 where id_depot_exercice = $1 and id_enseign...
+                                                             ^
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   23
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   01-01-2019 21:09:59
+Nom Exception :   PDOException
+Message       :   SQLSTATE[42703]: Undefined column: 7 ERROR:  column "id_enseignant" does not exist
+LINE 2: ...                 where id_depot_exercice = $1 and id_enseign...
+                                                             ^
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   23
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur API
+Date          :   01-01-2019 21:11:18
+Nom Exception :   PDOException
+Message       :   SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: ""
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/common/classes/classe_generique.php
+Line          :   23
+*************************************************
+
+
+
+
+*************************************************
+Utilisateur   :   4
+Titre         :   Erreur
+Date          :   01-01-2019 21:19:38
+Nom Exception :   Exception
+Message       :   Erreur lors de la copie du fichier
+File          :   /home/projet_web/ftp/files/etablissement/Prod/php/modules/moodle/modele_moodle.php
+Line          :   42
+*************************************************
+
+

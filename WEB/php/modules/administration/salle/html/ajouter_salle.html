@@ -1,0 +1,34 @@
+<form autocomplete="off" method="post" action="index.php?module=administration&type=salle&action=ajouter_salle">
+  <h4 class=" text-center mt-3 mb-1 underline">Ajout d'une salle</h4>
+  <div class="form-row">
+    <div class="form-group col-md-4">
+      <label for="nom_salle">Nom de la salle</label>
+      <input type="text" class="form-control" id="nom_salle" name="nom_salle" placeholder="B0-01" required />
+    </div>
+    <div class="form-group col-md-4">
+      <label for="nombre_places_salle">Nombre de places</label>
+      <input type="number" class="form-control" id="nombre_places_salle" name="nombre_places_salle" placeholder="93"
+        required />
+    </div>
+    <div class="form-group col-md-4">
+      <label for="nombre_ordinateurs_salle">Nombre d'ordinateurs</label>
+      <input type="number" class="form-control" id="nombre_ordinateurs_salle" name="nombre_ordinateurs_salle"
+        placeholder="93" required />
+    </div>
+
+    <div class="justify-content-md-center row  container-fluid form-group  ">
+      <div class="form-check col-auto justify-content-md-center">
+        <input class="form-check-input" type="checkbox" value="" id="contient_projecteur" name="contient_projecteur">
+        <label class="form-check-label" for="contient_projecteur">
+          Contient un projecteur
+        </label>
+      </div>
+    </div>
+
+
+  </div>
+
+  <div class="container-fluid row justify-content-center">
+    <button type="submit" class="btn btn-success mb-2">Ajouter</button>
+  </div>
+</form>

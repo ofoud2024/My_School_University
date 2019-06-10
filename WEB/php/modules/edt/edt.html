@@ -1,0 +1,95 @@
+<div class="edt container-fluid px-0">
+  <div class="container-fluid row mx-0 mb-3">
+
+    <div class="container row col-8 ml-2  edt-week-container ">
+      <a class="previous_week">
+        <div class="edt-week-switcher text-center previous_week">&lt;</div>
+      </a>
+      <div class="edt-week-text px-2 semaine_courante"></div>
+      <a class="next_week">
+        <div class="edt-week-switcher text-center ">&gt;</div>
+      </a>
+    </div>
+
+    <div class="container row col-4 ml-auto mr-0">
+      <select class="form-control" id="ref_semestre">
+      </select>
+    </div>
+
+  </div>
+
+  <div class="container-fluid mx-auto">
+    <h3 class="text-center text-success edt-week-name">
+      Semaine du
+      <span class="semaine_courante"></span> au
+      <span class="semaine_prochaine"></span>
+    </h3>
+  </div>
+
+  <div class="edt-body mx-4 my-5" id="edt-body">
+  </div>
+  <div id="edt-seance-container">
+
+  </div>
+</div>
+
+<div class="modal fade" id="modal_ajouter_seance" tabindex="-1" role="dialog" aria-labelledby="ajouterSeance"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Ajouter/Modifier une Séance</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+          <div class="form-group">
+            <label for="module">Module</label>
+            <select class="form-control" id="module_seance">
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="nom_salle">Salle</label>
+            <input type="text" class="form-control" id="nom_salle" />
+          </div>
+
+          <input class="d-none" id="id_seance" />
+          <input class="d-none" id="couleur" />
+
+          <div class="form-group">
+            <label for="enseignant">Enseignant</label>
+            <select class="form-control" id="enseignant">
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="groupe_seance">Groupe</label>
+            <select class="form-control" id="groupe_seance">
+            </select>
+          </div>
+
+
+
+          <div class="row">
+            <div class="col">
+              <label for="enseignant">Heure départ</label>
+              <input type="datetime-local" id="depart_seance" class="form-control" placeholder="Heure départ">
+            </div>
+            <div class="col">
+              <label for="enseignant">Durée (minutes)</label>
+              <input type="number" step="10" id="duree_seance" class="form-control" placeholder="Durée">
+            </div>
+          </div>
+
+        </form>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="appliquer-modification-seance">Appliquer</button>
+      </div>
+    </div>
+  </div>
+</div>
