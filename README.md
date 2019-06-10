@@ -5,7 +5,9 @@ Ce projet consiste à créer un site web pour la gestion des établissements sco
 
 ## Installation/Démo
 Vous pouvez déployer ce site web en local, en installant les scripts SQL et en copiant les fichiers du répertoire web dans votre serveur http. 
+
 Vous pouvez aussi consulter une version démo du site sur le lien suivant : http://ofoudane.a2hosted.com/etablissement/. 
+
 Vous pouvez me contacter sur ma page linkedin : https://www.linkedin.com/in/omar-foudane-098094167/, pour obtenir un nom d'utilisateur et un mot de passe et pouvoir explorer les fonctionnalités internes du site.
 
 ## Documents techniques
