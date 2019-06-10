@@ -8,7 +8,7 @@ Vous pouvez déployer ce site web en local, en installant les scripts SQL et en 
 Vous pouvez aussi consulter une version démo du site sur le lien suivant : http://ofoudane.a2hosted.com/etablissement/. </br>
 Vous pouvez me contacter sur ma page linkedin : https://www.linkedin.com/in/omar-foudane-098094167/, pour obtenir un nom d'utilisateur et un mot de passe et pouvoir explorer les fonctionnalités internes du site.
 
-## Documents techniques
+## Documents techniques et fonctionnels
 Pour plus de détails, vous pouvez consulter :
 1. Les documents fonctionnels : à ajouter plus tard
 2. Cahiers de spécifications techniques: à ajouter plus tard
